@@ -1,0 +1,27 @@
+.container-1{
+    margin: 200px;
+    padding: 20px;
+    border: 1px solid black;
+}
+.container-2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+h2{
+    text-align: center;
+}
+hr{
+    height: 105px;
+    color: black;
+}
+ button{
+    padding: 10px;
+    width: 150px;
+}
+.container-3{
+    margin: 40px 100px;
+    text-align: center;
+    border: 1px solid rgb(71, 71, 71);
+}
